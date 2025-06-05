@@ -2,3 +2,6 @@ yes
 dia
 kamu
 yes
+dia
+mereka
+saya
